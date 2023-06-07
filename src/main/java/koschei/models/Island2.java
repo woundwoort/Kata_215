@@ -1,6 +1,8 @@
 package koschei.models;
 
+
 public class Island2 {
+
 
     private Wood3 wood;
 
